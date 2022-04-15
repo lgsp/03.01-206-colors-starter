@@ -60,18 +60,21 @@ footer {
 
 @media (min-width: 768px) {
   header {
-    background-color: ;
+    background-color: #7FFF00; /* Chartreuse */
   }
 
   #column-1 {
+    width: 33%;
     background-color: #F0F8FF; /* AliceBlue */ 
   }
 
   #column-2 {
+    width: 33%;
      background-color: #FAEBD7; /* AntiqueWhite */
   }
 
   #column-3 {
+    width: 33%;
     background-color: #00FFFF; /* Aqua */
   }
 
@@ -89,14 +92,17 @@ footer {
   }
 
   #column-1 {
+    width: 33%;
     background-color: #F5F5dc; /* Beige */
   }
 
   #column-2 {
+    width: 33%;
     background-color: #FFE4C4; /* Bisque */
   }
 
   #column-3 {
+    width: 33%;
     background-color: #FFEBCD; /* BlanchedAlmond */
   }
 
